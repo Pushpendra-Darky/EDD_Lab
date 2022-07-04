@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "semaphore.h": "c",
+        "wait.h": "c"
+    }
+}
